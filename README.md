@@ -4,7 +4,7 @@
 
 🌱 In my free time, I build on Buildspace, study with Blockchains101, enjoy yoga, and cooking
 
-💞️ I’m looking to collaborate on Big Data Models, Exploratory Analysis..
+💞️ I’m looking to collaborate on Smart Contract Auditing, Token Development and Blockchain Research.
 
 📫 How to reach me: email me: Akshita.Misha.Bhasker@gmail.com 
 
